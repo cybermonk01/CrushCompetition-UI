@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-1-red)
 
-## Project-1 [live Link](https://judgeuix.netlify.app/)
+## Project [live Link](https://competitionuix.netlify.app/)
 
 **Name:** Ashutosh Singh
 
@@ -10,7 +10,7 @@
 - I learned to create navbar link hover effect.
 - Learned about before after pseudo selectors.
 
-**The project took \***9 Hours**\* to complete.**
+**The project took \***5 Hours**\* to complete.**
 
 ![image](https://img.shields.io/badge/INeuron-LearnCodeOnline-brightgreen)
 
